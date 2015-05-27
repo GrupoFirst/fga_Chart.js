@@ -1,11 +1,11 @@
 {
-  "name": "Chart.js",
-  "version": "1.0.2",
-  "description": "Simple HTML5 Charts using the canvas element",
-  "homepage": "https://github.com/nnnick/Chart.js",
-  "author": "nnnick",
-  "main": [
+    "name": "fga_Chart.js",
+    "version": "1.0.2",
+    "description": "Simple HTML5 Charts using the canvas element",
+    "homepage": "https://github.com/nibbleshifter/fga_Chart.js",
+    "author": "nnnick and FGA",
+    "main": [
     "Chart.js"
   ],
-  "dependencies": {}
+    "dependencies": {}
 }
